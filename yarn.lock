@@ -6047,10 +6047,15 @@
     react "^18.2.0"
     react-dom "^18.2.0"
 
-"@uniswap/default-token-list@^11.2.0", "@uniswap/default-token-list@^11.8.0":
+"@uniswap/default-token-list@^11.2.0":
   version "11.8.0"
   resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-11.8.0.tgz#a430e709a450469fb811f5b4984c00321b82e12c"
   integrity sha512-2U0sRaxrEZCyAr0e2pRueESJDtLl2oR7Zu7GeIaqqN6ocs7Ew2pncnrnrdFvMLSElVNbDS0PyCSPCeE6cj6mwg==
+
+"@uniswap/default-token-list@^12.2.0":
+  version "12.2.0"
+  resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-12.2.0.tgz#c453e5a5eea5411c1780e32b97398b96343687b8"
+  integrity sha512-r8x4mvkeAcARAQhGLVoCfRNcTlnQVuTWPw4Ge8TTzFqQXwdVn2epwUVmUqAQu1sw1yZpeOAUn5S7OFAYo0l66w==
 
 "@uniswap/eslint-config@^1.2.0":
   version "1.2.0"
@@ -16385,11 +16390,6 @@ polished@^3.3.2:
   integrity sha512-/QgHrNGYwIA4mwxJ/7FSvalUJsm7KNfnXiScVSEG2Xa5qxDeBn4nmdjN2pW00mkM2Tts64ktc47U8F7Ed1BRAA==
   dependencies:
     "@babel/runtime" "^7.12.5"
-
-polyfill-object.fromentries@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.nlark.com/polyfill-object.fromentries/download/polyfill-object.fromentries-1.0.1.tgz#1a5d89e3777684a852c9b6a6a1d2c3f9c262fc86"
-  integrity sha1-Gl2J43d2hKhSybamodLD+cJi/IY=
 
 postcss-attribute-case-insensitive@^5.0.2:
   version "5.0.2"
